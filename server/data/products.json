@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "name": "Classic White T-Shirt",
+        "description": "A timeless essential crafted from 100% organic cotton. Soft, breathable, and perfect for everyday wear.",
+        "price": 2490,
+        "category": "men",
+        "subcategory": "tops",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "gray"
+        ],
+        "images": [
+            "/images/products/white_tshirt_front_1768372514104.png",
+            "/images/products/white_tshirt_side_1768372533567.png",
+            "/images/products/white_tshirt_back_1768372550100.png"
+        ],
+        "inStock": true,
+        "featured": true
+    },
+    {
+        "id": 2,
+        "name": "Slim Fit Denim Jeans",
+        "description": "Modern slim-fit jeans with stretch denim for all-day comfort. Features classic 5-pocket styling.",
+        "price": 7470,
+        "category": "men",
+        "subcategory": "bottoms",
+        "sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "colors": [
+            "blue",
+            "black"
+        ],
+        "images": [
+            "/images/products/denim_jeans_front_1768372577363.png",
+            "/images/products/denim_jeans_detail_1768372598567.png"
+        ],
+        "inStock": true,
+        "featured": true
+    },
+    {
+        "id": 6,
+        "name": "Floral Maxi Dress",
+        "description": "Elegant flowing maxi dress with beautiful floral print. Perfect for summer events.",
+        "price": 9960,
+        "category": "women",
+        "subcategory": "dresses",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "floral-pink",
+            "floral-blue"
+        ],
+        "images": [
+            "/images/products/maxi_dress_front_1768372617851.png"
+        ],
+        "inStock": true,
+        "featured": true
+    },
+    {
+        "id": 9,
+        "name": "Cashmere Sweater",
+        "description": "Ultra-soft 100% cashmere sweater. A luxury essential for your wardrobe.",
+        "price": 16600,
+        "category": "women",
+        "subcategory": "tops",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            
+            "gray"
+        ],
+        "images": [
+            "/images/products/freepik__cashmere-sweater-on-white-background-front-view-fl__64591.png",
+            "/images/products/freepik__cashmere-sweater-on-white-background-threequarter-__64590.png"
+        ],
+        "inStock": true,
+        "featured": true
+    },
+    {
+        "id": 13,
+        "name": "Leather Tote Bag",
+        "description": "Spacious leather tote with interior pockets. Perfect for work or travel.",
+        "price": 15770,
+        "category": "accessories",
+        "subcategory": "bags",
+        "sizes": [
+            "onesize"
+        ],
+        "colors": [
+            "Green"
+        ],
+        "images": [
+            "/images/products/ChatGPT Image Feb 4, 2026, 10_59_28 PM(1).png",
+            "/images/products/ChatGPT Image Feb 4, 2026, 10_59_28 PM(2).png",
+            "/images/products/ChatGPT Image Feb 4, 2026, 10_59_28 PM(3).png"
+            
+        ],
+        "inStock": true,
+        "featured": true
+    },
+    {
+        "id": 19,
+        "name": "Trench Coat",
+        "description": "Classic double-breasted trench coat. Timeless sophistication.",
+        "price": 19080,
+        "category": "women",
+        "subcategory": "outerwear",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "beige"
+        ],
+        "images": [
+            "/images/products/freepik__trench-coat-women-beige-on-white-background-flat-l__64593.png",
+            "/images/products/freepik__trench-coat-women-beige-on-white-background-threeq__64592.png"
+        ],
+        "inStock": true,
+        "featured": true
+    },
+    {
+        "id": 30,
+        "name": "Minimalist Watch",
+        "description": "Sleek minimalist watch with leather strap. Timeless design.",
+        "price": 20750,
+        "category": "accessories",
+        "subcategory": "watches",
+        "sizes": [
+            "onesize"
+        ],
+        "colors": [
+            "brown-silver"
+        ],
+        "images": [
+            "/images/products/freepik__sleek-minimalist-watch-with-leather-strap-single-s__64594.png",
+            "/images/products/freepik__sleek-minimalist-watch-with-leather-strap-single-s__64595.png"
+        ],
+        "inStock": true,
+        "featured": true
+    }
+]
